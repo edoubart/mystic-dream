@@ -1,0 +1,15 @@
+{
+  "name": "mystic-dream",
+  "version": "0.0.1",
+  "description": "An API to manage, share, and track customer experience",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edoubart/mystic-dream.git"
+  },
+  "author": "Edouard Barthelemy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edoubart/mystic-dream/issues"
+  },
+  "homepage": "https://github.com/edoubart/mystic-dream#readme"
+}
