@@ -1,0 +1,430 @@
+[
+  {
+    "trip_id": "af-ben-1",
+    "name": "Benin, a journey that makes sense",
+    "description": "Benin is a very welcoming francophone country. During this journey, the expression \"Solidarity Tourism\" will take on its full meaning. You will be staying in a house during a mission, which you will have at your leisure, except for a few daily hours devoted to mission projects (school support and informatics, health prevention, social-educational workshops ...). You will live the life of the villagers, and discover deep Benin, on organized excursions for this purpose.",
+    "continent": "Africa",
+    "countries": [
+      "Benin"
+    ],
+    "regions": [],
+    "days": 17,
+    "type": "Bush and Savannah",
+    "level": 1,
+    "price": 1990,
+    "rating": 4
+  },
+  {
+    "trip_id": "af-bfa-1",
+    "name": "Burkina Faso, a journey that makes sense",
+    "description": "Go for a useful stay in Burkina Faso combining tourism and development. You will live the daily life of a Burkinabé village, take part in a development aid mission (literacy, simple mathematics, tutoring ...) and make excursions in the regions of Boromo and Koudougou. This trip is a unique opportunity to live the rhythm of African culture in a spirit of sharing cultures, respecting traditions and adventure.",
+    "continent": "Africa",
+    "countries": [
+      "Burkina Faso"
+    ],
+    "regions": [],
+    "days": 17,
+    "type": "Bush and Savannah",
+    "level": 1,
+    "price": 2035,
+    "rating": 4
+  },
+  {
+    "trip_id": "af-mar-1",
+    "name": "Ascension of the Toubkal",
+    "description": "The highest point in North Africa, the Toubkal is surrounded by giant foothills, none of which falls below 3000m. There is no shortage of roads, and this massif is the most accessible of the High Atlas, near Marrakech and its medina. This one-week hike is a true trekking of altitude. It is classic in design and offers a beautiful sporting hike with an affordable climb of the Toubkal (4167m), the highlight of this hike.",
+    "continent": "Africa",
+    "countries": [
+      "Morocco"
+    ],
+    "regions": [
+      "Atlas Mountains"
+    ],
+    "days": 8,
+    "type": "Mountain",
+    "level": 3,
+    "price": 655,
+    "rating": 4.5
+  },
+  {
+    "trip_id": "af-tza-1",
+    "name": "Kilimanjaro, Machame road (5895 m)",
+    "description": "From its 5895m, the Kilimanjaro is accessible to trained and above all motivated walkers. For this trip you will take the Machame route, probably the wildest and most beautiful, for six days, which will make you discover all aspects of Kilimanjaro. Departure from the southern flanks, then the Shira plateau, the Lava Tower pass at the foot of the west breach, the south face and the Barafu road. The descent will be via the Mweka way, which avoids the normal route. All with perfect logistics and well-established.",
+    "continent": "Africa",
+    "countries": [
+      "Tanzania"
+    ],
+    "regions": [
+      "Kilimanjaro",
+      "Mount Meru"
+    ],
+    "days": 9,
+    "type": "High Mountain",
+    "level": 5,
+    "price": 2195,
+    "rating": 4.5
+  },
+  {
+    "trip_id": "af-nam-1",
+    "name": "The essential of Namibia",
+    "description": "This 16-day trip to Namibia, complete, will allow you to discover the unmissable places of Namibia. First of all, Etosha Wildlife Park, the territory of many wild species, offers high-quality safaris. Then the region of Kaokoland and Ovamboland, to the north, near the Angolan border, will be rich in encounters. It is indeed the land of the semi-nomadic peoples Himba and Ovambo. Further south, the Damaraland, a region rich in sites of rock paintings and composed of savannah-covered arid plains dominated by mountains, some of which remain ancient volcanoes. Namib Desert, considered the oldest desert in the world, will delight you with its contrasting colors and orange dunes. Finally you will discover the mountains of Naukluft, sheared of gorges with luxuriant vegetation. In the evening, you can enjoy in peace and quiet a warm and comfortable accommodation. From the small lodge to the encampment set up in the wilderness, passing by the traditional farm, everything is there!",
+    "continent": "Africa",
+    "countries": [
+      "Namibia"
+    ],
+    "regions": [
+      "Namib Desert"
+    ],
+    "days": 16,
+    "type": "Bush and Savannah",
+    "level": 1,
+    "price": 3575,
+    "rating": 4.5
+  },
+  {
+    "trip_id": "as-idn-1",
+    "name": "Authentic Bali",
+    "description": "Small island on the map but immense by its diversity, Bali opens its doors and reveals its wonders. Volcanoes, rice fields, Hindu temples and paradisiacal beaches punctuate our journey on this paradise island. But beyond its landscapes, the most beautiful heritage of the island remains its people. The Balinese have invested their island with an intense spiritual life, where every manifestation of nature and life has a religious meaning. We witness this fervor through our daily walks, in the rice fields, near the lakes or among various exotic plantations. Homestay nights, typical meals and the private dance show add another dimension to our journey, more intimate, off the beaten path. The more adventurous will be able to climb the volcano Batur (optional) and enjoy the sunrise, whose beams irradiate a magnificent landscape. To finish, the beaches of Bali welcome us for a most relaxing epilogue. For those who wish, they can go to the Gili Islands for a surcharge, without delaying their return, in order to enjoy white sand and snorkeling in crystal clear water. A real treat !",
+    "continent": "Asia",
+    "countries": [
+      "Indonesia"
+    ],
+    "regions": [
+      "Bali"
+    ],
+    "days": 15,
+    "type": "Seaside and Islands",
+    "level": 1,
+    "price": 2390,
+    "rating": 4
+  },
+  {
+    "trip_id": "as-irn-1",
+    "name": "From Alamut to Persepolis",
+    "description": "This trip to Iran is very complete, we will discover the many facets of this country. We will first explore the mountains of Alborz through a 3-day mule trek. From Alamut and its fortress, we will follow the old caravan trail to reach the Caspian Sea. After discovering this mountain range, we will reach Tehran then the city of Kashan. We will then discover the splendours of Isfahan, its cupolas of blue earthenware and its marvelous bazaars. We will continue our journey to the Zagros Mountains, a formidable natural barrier, for a 3-day trek to the nomadic Bakhtyari, one of the last nomadic groups in the country. We will finally visit the fabulous Persepolis, the ancient capital of the Achaemenid Empire, then the gardens of Shiraz which will be the apotheosis of this magnificent journey.",
+    "continent": "Asia",
+    "countries": [
+      "Iran"
+    ],
+    "regions": [
+      "Alborz"
+    ],
+    "days": 16,
+    "type": "Mountain",
+    "level": 3,
+    "price": 3175,
+    "rating": 4
+  },
+  {
+    "trip_id": "as-mng-1",
+    "name": "Nomadic encounters",
+    "description": "\"The land of green pastures dancing with the wind, the land of open plains full of fantastic mirages,\" is how the poet Natsagdorj defines Mongolia. Land without fence, infinite valleys, alpine forests and deep blue sky mark the spirits. Descendants of Genghis Khan, his nomads know how to ride before walking. During this trip, we discover the Terelj National Park and share two days with a Mongolian family to discover the life of the nomads.",
+    "continent": "Asia",
+    "countries": [
+      "Mongolia"
+    ],
+    "regions": [
+      "Terelj"
+    ],
+    "days": 13,
+    "type": "Forests, Hills, Rivers and Lakes",
+    "level": 2,
+    "price": 1990,
+    "rating": 4
+  },
+  {
+    "trip_id": "as-rus-1",
+    "name": "From Lake Baikal to the Sea of ​​Japan",
+    "description": "This two-part trip invites us to discover the magnificent nature of Lake Baikal, with its largest island, Olkhon, the city of Irkutsk and the Siberian villages. During our stay in Ulan-Ude, we discover the way of life of the Old Believers and the traditions of the Buryats on the other side of Lake Baikal. Then we take the Trans-Siberian Railway for its best stretch: from Lake Baikal to the Pacific. On board the train, between the southern shores of Baikal and those of the Sea of ​​Japan, you have the opportunity to meet the local population for three days before arriving at the legendary city of Vladivostok.",
+    "continent": "Asia",
+    "countries": [
+      "Russia"
+    ],
+    "regions": [
+      "Siberia"
+    ],
+    "days": 15,
+    "type": "Polar Lands",
+    "level": 1,
+    "price": 3990,
+    "rating": 4
+  },
+  {
+    "trip_id": "as-tjk-uzb-1",
+    "name": "The paths of Tamerlane",
+    "description": "An advanced Persian-speaking position in an essentially Turkish-speaking region, Tajikistan is in many ways an intruder in the Central Asian landscape. The country is a mosaic of valleys, mountains, languages ​​and cultures. This trip begins with a trekking at the foot of the Pamir, in the Fanskye Mountains, a massif of slender summits culminating at more than 5000m, where we will meet some Tajik camps on the edge of beautiful lakes with turquoise waters. Then we will go to Uzbekistan for the cultural part of this tour with the visit of three cities of art of first order: Samarkand, Bukhara and Khiva. These three cities contain the most beautiful jewels of Central Asia: palaces and mosques, domes of turquoise ceramics and caravanserais, with all the history related to it, the Silk Road, the horses of Ferghana, The invasion of the hordes of Genghis Khan, the no less terrible Tamerlane, and the scientific scholar Oulough Beghcombine. In summary this trip is a very complete discovery of the heart of Central Asia.",
+    "continent": "Asia",
+    "countries": [
+      "Tajikistan",
+      "Uzbekistan"
+    ],
+    "regions": [],
+    "days": 15,
+    "type": "Mountain",
+    "level": 2,
+    "price": 2450,
+    "rating": 4
+  },
+  {
+    "trip_id": "eu-ita-1",
+    "name": "Cinque Terre, balcony on the sea",
+    "description": "Between seaside, typical villages and Mediterranean vegetation, this trip allows a change of scenery very accessible near France, and proposes to make you discover one of the most seductive regions of Italy: the Cinque Terre. The picturesque villages of the Cinque Terre and their colorful houses are linked by small mule tracks and stairs through vineyards and olive groves. They are a real paradise for hikers and travelers who want to taste the gastronomic delights of Italy!",
+    "continent": "Europe",
+    "countries": [
+      "Italy"
+    ],
+    "regions": [
+      "Cinque Terre",
+      "Tuscany"
+    ],
+    "days": 6,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 695,
+    "rating": 4
+  },
+  {
+    "trip_id": "eu-ita-2",
+    "name": "From the windmills to the volcanic land of Mount Etna",
+    "description": "The Aeolian Islands consist of seven islands, the most famous being Vulcano and Stromboli. Composed of an amazing mixture of sweetness of life, ancient beauty and wild power, each island is a volcanic rock that men have not always managed to domesticate. Further on, Mount Etna, the highest volcano in Europe and one of the most active in the world, rushes towards the sky ... In the vicinity of France, few regions can offer such a spectacle: one Travel in Europe!",
+    "continent": "Europe",
+    "countries": [
+      "Italy"
+    ],
+    "regions": [
+      "Sicily",
+      "Sardinia"
+    ],
+    "days": 8,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 1340,
+    "rating": 4
+  },
+  {
+    "trip_id": "eu-fra-esp-1",
+    "name": "Collioure - Cadaqués, between sea and mountain",
+    "description": "Collioure-Cadaqués is an extraordinary journey, over ridges overlooking the sea or at the water's edge. We will follow in the footsteps of artists-painters attracted by the sun, the Mediterranean and a fantastic palette of colors. Our itinerary passes through the chain of Albères and its famous 14th century signal towers, then follows the wire of the Pyrenees until falling into the sea. Steps in a comfortable hotel, and the Catalan culinary specialties will make appreciate even more this coast Vermeille.",
+    "continent": "Europe",
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "regions": [
+      "The Mediterranean",
+      "Pyrénées"
+    ],
+    "days": 7,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 830,
+    "rating": 4
+  },
+  {
+    "trip_id": "eu-prt-1",
+    "name": "Madeira between land and sea",
+    "description": "A volcanic mountain that leaves the ocean off the coast of Africa, Madeira combines an exuberant nature with breathtaking landscapes ... From north to south, on land and sea, at the bottom of the valleys and at the top of the peaks, Madeira offers contrasting faces and this tour has the ambition to reveal the best to you. On the sunny southern coast of the island of flowers, from a charming seafront hotel in Jardim do Mar, we explore the flowering levadas of agapanthes and montbrétias, banana-grown terrace crops that climb Flanks of the island, the steep coastline ... On the north side, from a family inn offering local cuisine, we discover the mineral crest peaking at nearly 1,900 meters, a fascinating spectacle of sharp peaks And volcanic arrows. In deep valleys dug to the blue of the ocean, authentic rural life unfolds along the terraces of sugar cane, banana trees and tropical fruits, irrigated by the levadas, and colored with a myriad of Flowers from around the world. To end in beauty, we go to sea watch the cetaceans. A trip to the thousand faces of this overseas island.",
+    "continent": "Europe",
+    "countries": [
+      "Portugal"
+    ],
+    "regions": [
+      "Madeira"
+    ],
+    "days": 8,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 1295,
+    "rating": 4
+  },
+  {
+    "trip_id": "eu-fra-che-1",
+    "name": "The Tour du Mont-Blanc (7 steps)",
+    "description": "Encircling the imposing Mont Blanc massif, the TMB is one of the most popular trails in Europe. With its 71 glaciers and 400 summits, this hike alternating French, Italian and Swiss slopes offers a remarkable spectacle through the numerous villages and hamlets providing a warm and enthusiastic welcome to travelers. This hike in an ice universe also offers the sweetness of pastoral and bucolic scenery made of vast alpine pastures for cow herds. From Courmayeur to the valley of Chamonix, you will encounter multiple lakes in the middle of a green setting as your walk around the Mont-Blanc.",
+    "continent": "Europe",
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "regions": [
+      "Alps"
+    ],
+    "days": 7,
+    "type": "Mountain",
+    "level": 2,
+    "price": 745,
+    "rating": 4.5
+  },
+  {
+    "trip_id": "na-can-1",
+    "name": "Whale Watching in the Saint-Laurent",
+    "description": "In the vast Gulf of Saint-Laurent basin, one of the highest concentrations of whales - humpback whale, minke whale, fin whale, blue whale and megaptera - feed during the summer months. In the space of a week, become an \"apprentice researcher\" and meet the biologists of the Research Center, without being a specialist! You make sea trips to observe, count the whales and thus contribute to the studies conducted by the Research Station, led by Richard Sears. Research is also being conducted in the Gaspé Peninsula with a special blue whale program.",
+    "continent": "North America",
+    "countries": [
+      "Canada"
+    ],
+    "regions": [
+      "Quebec"
+    ],
+    "days": 9,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 3285,
+    "rating": 4
+  },
+  {
+    "trip_id": "na-can-2",
+    "name": "Getaway to Quebec",
+    "description": "Welcome to Quebec! It is home to the immense boreal forest and taiga, the great Saint-Laurent River, the impressive Saguenay Fjord, the remnants of the French colony and the warm smile of Quebeckers. This course in the heart of the Charlevoix, Saguenay and Lake St Jean regions allows you to discover a good part of the province. With a diversified accommodation from the hotel to the rustic chalet, this itinerary will make you experience moments in nature in the comfort. Observation of Québec wildlife during hikes and excursions by inflatable boats: black bears, moose, beavers, whales, beluga whales ... and taste the flavors of Quebec for good meals prepared with your guide!",
+    "continent": "North America",
+    "countries": [
+      "Canada"
+    ],
+    "regions": [
+      "Quebec"
+    ],
+    "days": 11,
+    "type": "Forests, Hills, Rivers and Lakes",
+    "level": 1,
+    "price": 2495,
+    "rating": 4
+  },
+  {
+    "trip_id": "na-usa-1",
+    "name": "Hawaii, between jungle and volcanoes",
+    "description": "Hawaii is made up of a string of 132 islands stretched over 2500km offering extraordinary terrain for lovers of wilderness. Shaped by volcanism, hollowed out and ravaged by the rains, but colored with flowers and plants, Hawaii offers a striking contrast of lunar landscapes and lush vegetation where lava fields rub shoulders with the rainforest. Its islands shelter spectacular volcanoes (Kilauea, Haleakala ...) and the highest mountain, measured from the bottom of the ocean (Mauna Kea). You will also enjoy the sea and the colorful underwater life. Aloha!",
+    "continent": "North America",
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Hawaii"
+    ],
+    "days": 16,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 5425,
+    "rating": 3
+  },
+  {
+    "trip_id": "na-can-3",
+    "name": "Yukon, the call of the wolf",
+    "description": "The Yukon ... in northern British Columbia and eastern Alaska, a name that evokes Jack London's fabulous novels. From the end of October, the snow turns the rounded summits, the frozen lakes and the numerous valleys into a fabulous playground suitable for discovering dogsledding. Our base camp is located near Whitehorse, with easy access in a beautiful and interesting environment because very hilly allowing a variety of itineraries and landscapes. The snow is important and constant, and the team of mushers is francophone and anglophone. When the sky is cleared, the night of the Great North lights up with the aurora borealis, which then mingle with the glittering stars.",
+    "continent": "North America",
+    "countries": [
+      "Canada"
+    ],
+    "regions": [
+      "Yukon"
+    ],
+    "days": 10,
+    "type": "Snow",
+    "level": 2,
+    "price": 3445,
+    "rating": 4.5
+  },
+  {
+    "trip_id": "na-usa-2",
+    "name": "The American West",
+    "description": "Discover the mythical parks of the American West: Zion, Bryce, Canyonlands, Monument Valley, Grand Canyon ... The simple evocation of these names brings us back to the great era of the conquest of the West: exceptional landscapes, The wilderness, the discovery of Native American culture and the memories of your favorite westerns.",
+    "continent": "North America",
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Arizona",
+      "Colorado",
+      "Nevada",
+      "Utah"
+    ],
+    "days": 14,
+    "type": "Desert",
+    "level": 2,
+    "price": 3375,
+    "rating": null
+  },
+  {
+    "trip_id": "sa-per-1",
+    "name": "Peruvian walk",
+    "description": "Peru is an incredibly rich destination. There are stunning landscapes, from the rainforest to the snow-capped Andean peaks, passing by the coast. A history where many peoples, whose cultural heritage is still alive today, meet superb archeological sites dating back to the Inca era, an exceptional gastronomy and which is beginning to be talked about in the world. This itinerary leads us to the most important sites of Peru. After visiting Arequipa, the white city, we continue through the huge Colca canyon, which offers to its glances its vertiginous peaks and its agricultural terraces, which overlook the majestic condors. On the Altiplano, Lake Titicaca is home to the Quechua villages of Taquile Island and the Aymara communities. In Cusco, we go hiking in the Sacred Valley, through villages and historical sites, to reach the Machu Picchu, splendor of the Inca civilization which concludes marvelously this Andean journey.",
+    "continent": "South America",
+    "countries": [
+      "Peru"
+    ],
+    "regions": [
+      "Arequipa",
+      "Canyon de Colca"
+    ],
+    "days": 15,
+    "type": "Mountain",
+    "level": 2,
+    "price": 3590,
+    "rating": 4
+  },
+  {
+    "trip_id": "sa-per-2",
+    "name": "Trek on the secret paths of the Incas",
+    "description": "Before the arrival of the Europeans, thousands of miles of well-groomed roads connected cities, fortresses and ceremonial centers of the Inca Empire. Since then, most have been destroyed. Yet they are the ones that allow us to reach, outside the beaten track, these jewels of Andean architecture. The valley of Lares, one of the most beautiful places of excursion of the country, plunges us in a traditional Peru, of a rare authenticity. We live in the heart of the glacial valleys. The meetings with the peasants make this trek a beautiful human experience. The discovery of the Cusco region will be completed by visiting the most beautiful archaeological sites, witness to the grandeur of the Inca Empire. We then set off on the shores of Lake Titicaca, a veritable inland sea perched at about 4000m above sea level and considered the cradle of the Inca civilization. We pace the paths of the beautiful island of Taquile and discover the amazing floating islands of the Uros people. A trek to the uncharted itinerary on the very uncrowded peninsula of Capachica, on the shores of Lake Titicaca, concludes this magnificent journey.",
+    "continent": "South America",
+    "countries": [
+      "Peru"
+    ],
+    "regions": [
+      "Cuzco",
+      "Machu Picchu"
+    ],
+    "days": 15,
+    "type": "Mountain",
+    "level": 2,
+    "price": 3290,
+    "rating": 4
+  },
+  {
+    "trip_id": "sa-ecu-1",
+    "name": "Solidarity meetings on the equinoctial line",
+    "description": "Go to Ecuador to experience an adventure of sharing and meeting! This small country of South America is located, as its name indicates, on the equinoctial line, between Colombia and Peru. There are 28 indigenous cultures located mainly in the Andes and the Amazon. The blend of modernity and tradition makes the encounter with these peoples an unusual opportunity for sharing and exchange. An ideal country for the term \"Solidarity Tourism\" to make sense, as you will discover during your mission, to meet the women and children of San Juan. It is an approach open to all for a stay in a small group that is obviously in a fair logic. On the spot, you are housed in a house where you are finally at home, between travelers, free to \"live your life\" outside the daily 4 to 6 hours reserved for the mission project. A unique opportunity to experience the local life of a village before exploring the south of the country and meeting other communities.",
+    "continent": "South America",
+    "countries": [
+      "Equator"
+    ],
+    "regions": [],
+    "days": 16,
+    "type": "Heritage and Nature",
+    "level": 2,
+    "price": 3150,
+    "rating": null
+  },
+  {
+    "trip_id": "sa-arg-1",
+    "name": "Aconcagua (6959m) and Cerro Bonete (5050m)",
+    "description": "On more than 7000 km, the largest mountain range in the world, the Andes, culminates at the summit of the Aconcagua, at almost 7000m altitude. Gigantic massif crowned with volcanic relief, the flanks bristling with penitents of ice and beaten by a often very violent wind, defended to the south by a wall high of 3000 meters, the Aconcagua finds its Achilles heel on the northwest face, By the normal route. The absence of technical difficulty is compensated by a whimsical meteorology, which can quickly discourage the least motivated. High altitude, cold, wind and sometimes rain or snow, are a real test for those who want to approach their physical limits and resistance to isolation. The conquest of the giant Andean in 1897 by the Swiss mountaineer Zübriggen gave the green light to an uninterrupted succession of attempts and successes of numerous expeditions; The spirit of early explorers quickly succumbed to nationalism and true competition. Today the ascent of the Aconcagua by its normal way represents a real challenge for the experienced hikers, savvy and enduring mountain-goers, tempted by the experience of the very high altitude.",
+    "continent": "South America",
+    "countries": [
+      "Argentina"
+    ],
+    "regions": [
+      "Aconcagua",
+      "Cerro Bonete"
+    ],
+    "days": 22,
+    "type": "High Mountain",
+    "level": 5,
+    "price": 5995,
+    "rating": 3.5
+  },
+  {
+    "trip_id": "sa-bra-1",
+    "name": "Hiking on the road to gold",
+    "description": "Like the true \"tropeiros\", we follow the paths of the Golden route from Minas Gerais. Our trek runs between the high valleys of the Serra da Bocaina, covered with tropical vegetation, and leads us to the cut coastline of the Costa Verde. At the rhythm of swimming, between waterfalls and the ocean, we reach on foot the ecological reserves of Joatinga and Mamangua, dotted with paradisiac creeks. The enchantment continues in small villages of fishermen caiçaras. An original itinerary in an authentic Brazil.",
+    "continent": "South America",
+    "countries": [
+      "Brasil"
+    ],
+    "regions": [],
+    "days": 15,
+    "type": "Seaside and Islands",
+    "level": 2,
+    "price": 3450,
+    "rating": 4
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1482623747",
+    "status": "initiated"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1454659200",
+    "status": "departure-to"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1454637600",
+    "status": "in-transit-to"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1454702400",
+    "status": "arrival-to"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1454716860",
+    "status": "in-progress",
+    "day": 1,
+    "remaining_days": 14
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1454803260",
+    "status": "in-progress",
+    "day": 2,
+    "remaining_days": 13
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1454889660",
+    "status": "in-progress",
+    "day": 3,
+    "remaining_days": 12
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455062460",
+    "status": "in-progress",
+    "day": 4,
+    "remaining_days": 11
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455148860",
+    "status": "in-progress",
+    "day": 5,
+    "remaining_days": 10
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455235260",
+    "status": "in-progress",
+    "day": 6,
+    "remaining_days": 9
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455321660",
+    "status": "in-progress",
+    "day": 7,
+    "remaining_days": 8
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455408060",
+    "status": "in-progress",
+    "day": 8,
+    "remaining_days": 7
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455494460",
+    "status": "in-progress",
+    "day": 9,
+    "remaining_days": 6
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455580860",
+    "status": "in-progress",
+    "day": 10,
+    "remaining_days": 5
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455667260",
+    "status": "in-progress",
+    "day": 11,
+    "remaining_days": 4
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455753660",
+    "status": "in-progress",
+    "day": 12,
+    "remaining_days": 3
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455840060",
+    "status": "in-progress",
+    "day": 13,
+    "remaining_days": 2
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1455926460",
+    "status": "in-progress",
+    "day": 14,
+    "remaining_days": 1
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1456012860",
+    "status": "in-progress",
+    "day": 15,
+    "remaining_days": 0
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1456099260",
+    "status": "completed"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1456128000",
+    "status": "departure_from"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1456135200",
+    "status": "in_transit_from"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1456171200",
+    "status": "arrival_from"
+  },
+  {
+    "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
+    "timestamp": "1456185660",
+    "status": "terminated"
+  },
+  {
+    "trip_instance_uuid": "aa821a1d-d18f-42d4-9106-4a06aca8a4a5",
+    "timestamp": "1457904600",
+    "status": "initiated"
+  },
+  {
+    "trip_instance_uuid": "aa821a1d-d18f-42d4-9106-4a06aca8a4a5",
+    "timestamp": "1458034200",
+    "status": "cancelled"
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1457963100",
+    "status": "initiated"
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1459501200",
+    "status": "departure-to"
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1459504800",
+    "status": "in-transit-to"
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1459555140",
+    "status": "arrival-to"
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1459555260",
+    "status": "in-progress",
+    "day": 1,
+    "remaining_days": 16
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1459641660",
+    "status": "in-progress",
+    "day": 2,
+    "remaining_days": 15
+  },
+  {
+    "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
+    "timestamp": "1459767600",
+    "status": "emergency"
+  }
+]
