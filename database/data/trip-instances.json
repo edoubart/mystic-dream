@@ -3,21 +3,21 @@
     "trip_instance_uuid": "3e692116-b073-413b-8c4e-d158cfea1023",
     "customer_uuid": "f002291c-d1b1-42bd-9098-7ca14050f98c",
     "trip_id": "as-idn-1",
-    "created_at": "1492901914",
-    "updated_at": "1492901914"
+    "created_at": 1492901914,
+    "updated_at": 1492901914
   },
   {
     "trip_instance_uuid": "aa821a1d-d18f-42d4-9106-4a06aca8a4a5",
     "customer_uuid": "9b6693c5-d66f-4820-8072-d4fdd6cc1306",
     "trip_id": "eu-ita-1",
-    "created_at": "1492904837",
-    "updated_at": "1492904837"
+    "created_at": 1492904837,
+    "updated_at": 1492904837
   },
   {
     "trip_instance_uuid": "5bf46fca-0dd7-4e77-8ec6-f55dbac415ed",
     "customer_uuid": "e2da91dc-778f-403c-82e7-659256a5c8c1",
     "trip_id": "af-bfa-1",
-    "created_at": "1492904970",
-    "updated_at": "1492904970"
+    "created_at": 1492904970,
+    "updated_at": 1492904970
   }
 ]

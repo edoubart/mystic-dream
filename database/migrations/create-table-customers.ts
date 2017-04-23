@@ -5,7 +5,7 @@ AWS.config.update({
     // endpoint: "http://localhost:8000"
 });
 
-const dynamodb: AWS.DynamoDB = new AWS.DynamoDB();
+const dynamoDb: AWS.DynamoDB = new AWS.DynamoDB();
 
 const params: AWS.DynamoDB.Types.CreateTableInput = {
     "AttributeDefinitions": [
@@ -28,10 +28,10 @@ const params: AWS.DynamoDB.Types.CreateTableInput = {
 };
 
 
-dynamodb.createTable(params, (err: AWS.AWSError, data: AWS.DynamoDB.Types.CreateTableOutput): void => {
+dynamoDb.createTable(params, (err: AWS.AWSError, data: AWS.DynamoDB.Types.CreateTableOutput): void => {
     if (err) {
-        console.error("Unable to create the customers table. Error JSON:", JSON.stringify(err, null, 2));
+        console.error("Unable to create table customers. Error JSON:", JSON.stringify(err, null, 2));
     } else {
-        console.log("The customers table has been created with success. Table description JSON:", JSON.stringify(data, null, 2));
+        console.log("The table customers has been created with success. Table description JSON:", JSON.stringify(data, null, 2));
     }
 });

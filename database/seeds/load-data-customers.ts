@@ -11,7 +11,7 @@ const docClient: AWS.DynamoDB.DocumentClient = new AWS.DynamoDB.DocumentClient()
 console.log("Importing customers into DynamoDB. Please wait.");
 
 interface Customer {
-    customer_uuid: string;
+    customer_uuid: '/^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i';
     first_name: string,
     last_name: string,
     gender: string,
@@ -22,7 +22,7 @@ interface Customer {
     phone: '^(?:(?:\+?1\s*(?:[.-]\s*)?)?(?:\(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*\)|([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?$'
 }
 
-const customers: Array<Customer> = JSON.parse(fs.readFileSync('../seeds/customers.json', 'utf8'));
+const customers: Array<Customer> = JSON.parse(fs.readFileSync('database/data/customers.json', 'utf8'));
 customers.forEach((customer: Customer): void => {
     const params: AWS.DynamoDB.Types.PutItemInput = {
         TableName: "md_customers",
