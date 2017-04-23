@@ -1,2 +1,9 @@
+.idea/
 node_modules/
 dist/
+
+database/**/*.map
+database/**/*.js
+
+src/**/*.map
+src/**/*.js
