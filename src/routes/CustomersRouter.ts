@@ -47,7 +47,7 @@ export class CustomersRouter {
     }
 
     /**
-     * GET one customer by uuid.
+     * Get one customer by uuid.
      */
     public getOne(req: Request, res: Response, next: NextFunction) {
         const params: AWS.DynamoDB.Types.GetItemInput = {
