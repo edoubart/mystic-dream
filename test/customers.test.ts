@@ -14,15 +14,15 @@ describe('GET api/v1/customers', () => {
             .then(res => {
                 expect(res.status).to.equal(200);
                 expect(res).to.be.json;
-                expect(res.body).to.be.a('array');
-                expect(res.body).to.have.length(250);
+                expect(res.body.data.Items).to.be.a('array');
+                expect(res.body.data.Items).to.have.length(250);
             })
     });
 
     it('should include Towney Sandyford', () => {
         return chai.request(app).get('/api/v1/customers')
             .then(res => {
-                let towneySandyford = res.body.find(customer => customer.last_name === 'Sandyford');
+                let towneySandyford = res.body.data.Items.find(customer => customer.last_name === 'Sandyford');
                 expect(towneySandyford).to.exist;
                 expect(towneySandyford).to.have.all.keys([
                     'customer_uuid',
@@ -54,8 +54,8 @@ describe('GET api/v1/customers/:uuid', () => {
     it('should return Abby Dufoure', () => {
         return chai.request(app).get('/api/v1/customers/6e183825-4250-459f-8639-2e15e3bd0300')
             .then(res => {
-                expect(res.body.customer.first_name).to.equal('Abby');
-                expect(res.body.customer.last_name).to.equal('Dufoure');
+                expect(res.body.data.Item.first_name).to.equal('Abby');
+                expect(res.body.data.Item.last_name).to.equal('Dufoure');
             });
     });
 

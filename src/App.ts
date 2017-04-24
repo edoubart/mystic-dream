@@ -4,6 +4,7 @@ import * as logger from 'morgan';
 import * as bodyParser from 'body-parser';
 
 import CustomersRouter from './routes/CustomersRouter';
+import StepsRouter from './routes/StepsRouter';
 
 class App {
 
@@ -36,6 +37,7 @@ class App {
         });
         this.express.use('/', router);
         this.express.use('/api/v1/customers', CustomersRouter);
+        this.express.use('/api/v1/steps', StepsRouter);
     }
 
 }
