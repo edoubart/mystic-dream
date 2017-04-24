@@ -1,6 +1,13 @@
 import {Router, Request, Response, NextFunction} from 'express';
+import AWS = require("aws-sdk");
 
-const Customers = require('../../database/data/customers.json');
+AWS.config.update({
+    region: "us-west-2"
+    // endpoint: "http://localhost:8000"
+});
+
+const docClient: AWS.DynamoDB.DocumentClient = new AWS.DynamoDB.DocumentClient();
+const table: string = "md_customers";
 
 export class CustomersRouter {
     router: Router;
@@ -17,30 +24,55 @@ export class CustomersRouter {
      * Get all Customers.
      */
     private getAll(req: Request, res: Response, next: NextFunction) {
-        res.send(Customers);
+        const params: AWS.DynamoDB.Types.ScanInput = {
+            TableName: table
+        };
+
+        docClient.scan(params, (err: AWS.AWSError, data: AWS.DynamoDB.Types.ScanOutput): void => {
+            if (err) {
+                res.status(404)
+                    .send({
+                        message: 'No customer found.',
+                        status: res.status
+                    });
+            } else {
+                res.status(200)
+                    .send({
+                        message: 'Success',
+                        status: res.status,
+                        data
+                    });
+            }
+        });
     }
 
     /**
      * GET one customer by uuid.
      */
     public getOne(req: Request, res: Response, next: NextFunction) {
-        let query = req.params.uuid;
-        let customer = Customers.find(customer => customer.customer_uuid === query);
-        if (customer) {
-            res.status(200)
-                .send({
-                    message: 'Success',
-                    status: res.status,
-                    customer
-                });
-        }
-        else {
-            res.status(404)
-                .send({
-                    message: 'No customer found with the given uuid.',
-                    status: res.status
-                });
-        }
+        const params: AWS.DynamoDB.Types.GetItemInput = {
+            TableName: table,
+            Key: {
+                "customer_uuid": req.params.uuid
+            }
+        };
+
+        docClient.get(params, (err: AWS.AWSError, data: AWS.DynamoDB.Types.GetItemOutput): void => {
+            if (err) {
+                res.status(404)
+                    .send({
+                        message: 'No customer found with the given uuid.',
+                        status: res.status
+                    });
+            } else {
+                res.status(200)
+                    .send({
+                        message: 'Success',
+                        status: res.status,
+                        data
+                    });
+            }
+        });
     }
 
     /**
