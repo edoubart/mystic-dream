@@ -13,7 +13,7 @@ export class CustomersRouter {
     router: Router;
 
     /*
-     * Initialize the CustomerRouter.
+     * Initialize the CustomersRouter.
      */
     constructor() {
         this.router = Router();
@@ -21,7 +21,7 @@ export class CustomersRouter {
     }
 
     /**
-     * Get all Customers.
+     * Get all customers.
      */
     private getAll(req: Request, res: Response, next: NextFunction) {
         const params: AWS.DynamoDB.Types.ScanInput = {
