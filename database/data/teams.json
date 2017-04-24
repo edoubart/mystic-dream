@@ -1,0 +1,14 @@
+[
+  {
+    "team_id": "admin-nyc",
+    "name": "Admin Team NYC",
+    "location": "New York City",
+    "members": 1
+  },
+  {
+    "team_id": "support-nyc",
+    "name": "Support Team NYC",
+    "location": "New York City",
+    "members": 1
+  }
+]

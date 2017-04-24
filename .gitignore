@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+dist/
+*.log
+
+database/**/*.map
+database/**/*.js
+
+src/**/*.map
+src/**/*.js
